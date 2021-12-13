@@ -7,7 +7,7 @@ cloudpickle==2.0.0
 docutils==0.18
 doit==0.33.1
 idna==3.3
-lxml==4.6.4
+lxml==4.6.5
 # TODO: needed on macOS, not Linux
 # MacFSEvents==0.8.1
 Mako==1.1.5
