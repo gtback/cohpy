@@ -10,7 +10,7 @@ idna==3.3
 lxml==4.6.5
 # TODO: needed on macOS, not Linux
 # MacFSEvents==0.8.1
-Mako==1.1.5
+Mako==1.2.2
 Markdown==3.3.4
 MarkupSafe==2.0.1
 natsort==8.0.0
